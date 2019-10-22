@@ -1,5 +1,3 @@
-Pauline Rouzé le 22/10/2019
-
 Pendu réalisé en React : récupération de la "banque de mots" via une API, stockage de cette banque dans la session de l'utilisateur, ajout d'un canva pour afficher le bonhomme.
 
 L’affichage comprend deux parties : le masque de la devinette, et une série de boutons d'essai, à raison d’un par lettre. Par exemple, deux rangées de 13.
