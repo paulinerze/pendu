@@ -1,5 +1,7 @@
 Pendu réalisé en React : récupération de la "banque de mots" via une API, stockage de cette banque dans la session de l'utilisateur, ajout d'un canva pour afficher le bonhomme.
 
+Pour jouer cliquer sur le bouton "Jouer" et appuyer sur les touches du clavier pour soumettre le choix. Pour rejouer cliquer sur le bouton "Jouer". Le mot à deviner est généré aléatoirement.
+
 L’affichage comprend deux parties : le masque de la devinette, et une série de boutons d'essai, à raison d’un par lettre. Par exemple, deux rangées de 13.
 Le masque utilise un _underscore_ ( _ ) pour toute lettre de la devinette qui n’a pas encore été révélé.
 On prend soin de bien séparer visuellement chaque lettre à deviner, pour faciliter la perception des tailles des mots.
